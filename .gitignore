@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# IntelliJ User Settings
+.idea/
+
+# Typescript Build
+dist/
+
+# Environment Variable Files
+*.env
