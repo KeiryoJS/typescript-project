@@ -74,7 +74,7 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz#87de7af9c231826fdd68ac7258f77c429e0e5fcf"
   integrity sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w==
 
-"@keiryo/eslint-config@^1.0.1":
+"@keiryo/eslint-config@1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@keiryo/eslint-config/-/eslint-config-1.0.1.tgz#ed3ad2d3932087121fd5fa9ccd23b266677841fe"
   integrity sha512-unKVKRXH5HOGaZUalv4CJ8FMPo8w57fdiRZ4MqlRIweDkXtrVhFHZG92DwvbvKSXiDnJ+f+Uw/T//uhDQGWXdA==
